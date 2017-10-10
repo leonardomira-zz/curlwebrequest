@@ -1,0 +1,4 @@
+source https://nuget.org/api/v2
+
+git https://github.com/leonardomira/openssl-net
+git https://github.com/leonardomira/libcurl.NET
