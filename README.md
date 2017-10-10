@@ -2,8 +2,8 @@
 C# WebRequest implementation using libcurl.
 
 ## Goal
-Provide a solution as close as possible to a dotNet 4.0 reimplementation using [libcurl] (https://curl.haxx.se/libcurl/) and [libcurl.NET] (https://github.com/pjquirk/libcurl.NET).
-HTTPs support is provided with [openssl] (https://www.openssl.org/) in the form of [openssl-net] (https://github.com/openssl-net/openssl-net).
+Provide a solution as close as possible to a dotNet 4.0 reimplementation using [libcurl](https://curl.haxx.se/libcurl/) in the form of [libcurl.NET](https://github.com/pjquirk/libcurl.NET).
+HTTPs support is provided with [openssl](https://www.openssl.org/) in the form of [openssl-net](https://github.com/openssl-net/openssl-net).
 
 ## Motivation
 This project started as a private solution for a not complete understood problem.
